@@ -1,0 +1,25 @@
+_id: req_44a7f8bb0d554d0c96b24c9ed82f6f88
+type: Request
+parentId: fld_ae51ed1f80c549259c345eeea2169e2d
+modified: 1684973932934
+created: 1684973763835
+url: http://localhost:8000/usuarios
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1684963748339
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

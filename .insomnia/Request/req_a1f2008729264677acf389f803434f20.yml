@@ -1,0 +1,25 @@
+_id: req_a1f2008729264677acf389f803434f20
+type: Request
+parentId: fld_b6a763c9ec62412ea4f5174d9184dd94
+modified: 1684973989645
+created: 1684973845915
+url: http://localhost:8000/sessoes
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1684973796304.4531
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_597c272a118d4fba8505e25c48dcd065
+type: Request
+parentId: fld_b6a763c9ec62412ea4f5174d9184dd94
+modified: 1684974217218
+created: 1684973877154
+url: http://localhost:8000/sessoes/646eaa3ea5996b4d57d5d4e1
+name: New Request
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1684973796279.4531
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

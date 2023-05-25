@@ -1,0 +1,21 @@
+_id: req_9dd86f0659fa4ed68cfb3c6a2b244c0e
+type: Request
+parentId: fld_ae51ed1f80c549259c345eeea2169e2d
+modified: 1684973965875
+created: 1684973791795
+url: http://localhost:8000/usuarios/646ea95da5996b4d57d5d4da
+name: New Request
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1684963748364
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
